@@ -412,7 +412,8 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 p {
-    color: "Railway",serif;
+    font-family: "Railway", serif;
+    color: #000;
     font-size: 16px;
     line-height: 24px;
     margin-bottom: 15px;
@@ -3816,7 +3817,7 @@ hr {
 }
 
 .blog_area a {
-    color: "Railway",serif!important;
+    color: #2c5096 !important;
     text-decoration: none;
     transition: .4s
 }
